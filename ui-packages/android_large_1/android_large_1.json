@@ -1,0 +1,736 @@
+{
+  "name": "android_large_1",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "vr0y7n2RoViKAh6nvjN7N7",
+    "node": "3:36",
+    "version": "3514585305",
+    "component-id": "dd9a8812411008f3c1c344f92e9d76dcc310fc64"
+  },
+  "default": "Android Large - 1",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Button1"
+      },
+      {
+        "type": "text",
+        "id": "TextView1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Button2"
+      },
+      {
+        "type": "text",
+        "id": "TextView2"
+      },
+      {
+        "type": "group",
+        "id": "check2"
+      },
+      {
+        "type": "vector",
+        "id": "Button3"
+      },
+      {
+        "type": "text",
+        "id": "TextView3"
+      },
+      {
+        "type": "group",
+        "id": "check3"
+      },
+      {
+        "type": "vector",
+        "id": "Button4"
+      },
+      {
+        "type": "vector",
+        "id": "TextView4"
+      },
+      {
+        "type": "group",
+        "id": "check4"
+      },
+      {
+        "type": "image",
+        "id": "Anvil_C8R_Pisces_loading (1) 1"
+      },
+      {
+        "type": "vector",
+        "id": "TextView5"
+      },
+      {
+        "type": "text",
+        "id": "Text"
+      },
+      {
+        "type": "vector",
+        "id": "Bounding box"
+      },
+      {
+        "type": "vector",
+        "id": "check"
+      },
+      {
+        "type": "vector",
+        "id": "Bounding box1"
+      },
+      {
+        "type": "vector",
+        "id": "check1"
+      },
+      {
+        "type": "vector",
+        "id": "Bounding box2"
+      },
+      {
+        "type": "vector",
+        "id": "check5"
+      }
+    ],
+    "modes": {
+      "Android Large - 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Button1",
+              "TextView1",
+              "Vector",
+              "Button2",
+              "TextView2",
+              "check2",
+              "Button3",
+              "TextView3",
+              "check3",
+              "Button4",
+              "TextView4",
+              "check4",
+              "Anvil_C8R_Pisces_loading (1) 1",
+              "TextView5",
+              "Text"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "267.27272727272725",
+              "saturation": "0.8461538461538461",
+              "value": "0.050980392156862744"
+            }
+          },
+          {
+            "id": "Button1",
+            "border-radius": "18.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "32.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "308.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              }
+            },
+            "vector-content": "button1.svg"
+          },
+          {
+            "id": "TextView1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "133.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "38.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "140.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "40.00000000000002",
+              "saturation": "0.18584070796460175",
+              "value": "0.44313725490196076"
+            },
+            "text-content": "Hello Plz Click",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "20.0",
+            "line-height": "1.2102272033691406",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Vector",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "84.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "38.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Button2",
+            "border-radius": "18.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "95.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "308.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              }
+            },
+            "vector-content": "button2.svg"
+          },
+          {
+            "id": "TextView2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "133.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "101.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "140.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "40.00000000000002",
+              "saturation": "0.18584070796460175",
+              "value": "0.44313725490196076"
+            },
+            "text-content": "Hello Plz Click",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "20.0",
+            "line-height": "1.2102272033691406",
+            "typeface": "Inter"
+          },
+          {
+            "id": "check2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "84.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "101.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Bounding box",
+              "check"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Button3",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "162.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "144.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "153.0"
+              }
+            },
+            "vector-content": "button3.svg"
+          },
+          {
+            "id": "TextView3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "35.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "195.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "126.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "57.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "40.00000000000002",
+              "saturation": "0.18584070796460175",
+              "value": "0.44313725490196076"
+            },
+            "text-content": "Hello Plz Click",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "20.0",
+            "line-height": "1.2102272033691406",
+            "typeface": "Inter"
+          },
+          {
+            "id": "check3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "86.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "264.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Bounding box1",
+              "check1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Button4",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "190.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "162.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "144.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "153.0"
+              }
+            },
+            "vector-content": "button4.svg"
+          },
+          {
+            "id": "TextView4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "222.88246154785156"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "195.4545440673828"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "78.94886016845703"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.77272033691406"
+              }
+            },
+            "vector-content": "text_view4.svg"
+          },
+          {
+            "id": "check4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "250.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "260.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Bounding box2",
+              "check5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Anvil_C8R_Pisces_loading (1) 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "338.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "308.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "132.0"
+              }
+            },
+            "image-content": "anvil_c8r_pisces_loading_1_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "TextView5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "496.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "308.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "253.0"
+              }
+            },
+            "vector-content": "text_view5.svg"
+          },
+          {
+            "id": "Text",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "46.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "516.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "274.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "213.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "267.27272727272725",
+              "saturation": "0.8461538461538461",
+              "value": "0.050980392156862744"
+            },
+            "annotated-text-content": {
+              "text": "This area is for informational\ntext to be inserted here I am \ndemonstrating the text \nwindow to be used for \ninformational text purposes\nwhat just happened did the text\njust get smaller and harder to read or \nam I just going insane I swear I can’t read this \nshit anymore.",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "137"
+                },
+                {
+                  "span-start": "137",
+                  "span-length": "32",
+                  "annotated-text-style": {
+                    "text-size": "16.0",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "267.27272727272725",
+                      "saturation": "0.8461538461538461",
+                      "value": "0.050980392156862744"
+                    }
+                  }
+                },
+                {
+                  "span-start": "169",
+                  "span-length": "40",
+                  "annotated-text-style": {
+                    "text-size": "14.0",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "267.27272727272725",
+                      "saturation": "0.8461538461538461",
+                      "value": "0.050980392156862744"
+                    }
+                  }
+                },
+                {
+                  "span-start": "209",
+                  "span-length": "50",
+                  "annotated-text-style": {
+                    "text-size": "12.0",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "267.27272727272725",
+                      "saturation": "0.8461538461538461",
+                      "value": "0.050980392156862744"
+                    }
+                  }
+                },
+                {
+                  "span-start": "259",
+                  "span-length": "13",
+                  "annotated-text-style": {
+                    "text-size": "10.0",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "267.27272727272725",
+                      "saturation": "0.8461538461538461",
+                      "value": "0.050980392156862744"
+                    }
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "20.0",
+            "line-height": "1.2102272033691406",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Bounding box",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            }
+          },
+          {
+            "id": "check",
+            "margin": {
+              "left": "3.8499984741210938",
+              "top": "5.975006103515625",
+              "right": "3.8499984741210938",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "check.svg"
+          },
+          {
+            "id": "Bounding box1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            }
+          },
+          {
+            "id": "check1",
+            "margin": {
+              "left": "3.8499984741210938",
+              "top": "5.975006103515625",
+              "right": "3.8499984741210938",
+              "bottom": "5.999992370605469"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "check1.svg"
+          },
+          {
+            "id": "Bounding box2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            }
+          },
+          {
+            "id": "check5",
+            "margin": {
+              "left": "3.8499984741210938",
+              "top": "5.975006103515625",
+              "right": "3.8499984741210938",
+              "bottom": "5.999992370605469"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "check2.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Android Large - 1",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
